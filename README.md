@@ -74,3 +74,22 @@ A machine learning project predicting potential failures in medical devices to i
 * **Email:** [varsanrecp@gmail.com](mailto:varsanrecp@gmail.com)
 
 ---
+## My learning log
+
+**Day-1:** Cretaed an git hub named as ML portfolio.
+
+**Day-2:** Worked on Tensorflow- Beginner guide and get a hands on with classification project.
+
+**Diffrence Between Pytorch and TensorFlow**
+
+PyTorch vs TensorFlow
+
+PyTorch → Pythonic, easy to learn, great for research & quick experiments.
+
+TensorFlow → Better for large-scale production, deployment on mobile/web (TF Lite, TF.js).
+
+PyTorch is loved by students & researchers.
+
+TensorFlow is trusted by industry for scaling & deployment.
+
+
