@@ -92,4 +92,12 @@ PyTorch is loved by students & researchers.
 
 TensorFlow is trusted by industry for scaling & deployment.
 
+3. Leanred about Langchain
+They are basically used for 3 purpose
+  1. Conect API with website
+  2. Add memory , Remember previous conversations
+  3. Building Chains, like what should happen after each step.
+
+Build an Q/A answering chatbot for the pdf we upload.
+
 
